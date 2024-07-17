@@ -13,7 +13,7 @@ lookml = "lookml.__main__:cli"
 
 [tool.poetry.dependencies]
 packaging = "^24.1"
-python = "^3.12" 
+python = "^3.11" 
 PyGithub = "^1.47"
 PyYAML = "^6.0.1"
 click = "^7.1.2"
